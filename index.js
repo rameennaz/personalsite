@@ -1,0 +1,3 @@
+function movepng(){
+    alert(moveup);
+}
